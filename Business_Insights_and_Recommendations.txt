@@ -1,0 +1,27 @@
+BUSINESS INSIGHTS & RECOMMENDATIONS
+
+1. The majority of orders were successfully delivered, indicating a high overall order completion level in the dataset.
+
+2. The average delivery time was approximately 12.5 days, showing that delivery speed is an important operational metric for monitoring customer experience.
+
+3. The delivery-days distribution is concentrated around lower delivery durations, while a smaller number of orders took considerably longer to deliver.
+
+4. Monthly order activity shows variation over time, with order volumes increasing during several periods and declining during others. 
+   This indicates the presence of seasonal or time-based demand patterns.
+
+5. The order-status analysis shows that delivered orders represent the dominant order status, while other statuses such as shipped, canceled, unavailable, 
+   invoiced, processing and created represent much smaller proportions.
+
+6. The comparison between estimated and actual delivery days shows variation in delivery performance, indicating that some orders experienced substantial differences 
+   between estimated and actual delivery duration.
+
+
+RECOMMENDATIONS
+
+1. Improve delivery performance by identifying orders and regions associated with longer delivery durations and investigating the operational causes of delays.
+
+2. Use monthly order trends to improve demand planning, logistics capacity and resource allocation during periods of higher order volume.
+
+3. Monitor the gap between estimated and actual delivery times and improve delivery-time estimation where significant differences are observed.
+
+4. Continue monitoring order-status performance and investigate canceled, unavailable and delayed orders to reduce potential customer dissatisfaction.
